@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書纂傳
-#+DATE: 2015-09-23 09:36:09
-#+PROPERTY: JUAN 38
+#+DATE: 2015-08-24 22:02:56.547828
+#+PROPERTY: ID KR1b0034
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十八
 <pb:KR1b0034_WYG_038-1a>¶
 欽定四庫全書¶
 　尚書纂傳卷三十八　　　元　王天與　撰¶
@@ -326,4 +328,3 @@
 　(曰此篇見周公養成君德之效又見召公當/危疑之際區處周宻皆可以爲來世法也)¶
 　¶
 　尚書纂傳卷三十八¶
-

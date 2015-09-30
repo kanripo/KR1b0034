@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書纂傳
-#+DATE: 2015-09-23 09:36:09
-#+PROPERTY: JUAN 26
+#+DATE: 2015-08-24 22:02:56.314515
+#+PROPERTY: ID KR1b0034
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十六
 <pb:KR1b0034_WYG_026-1a>¶
 欽定四庫全書¶
 　尚書纂傳卷二十六　　　元　王天與　撰¶
@@ -92,4 +94,3 @@
 　¶
 　¶
 　尚書纂傳卷二十六¶
-

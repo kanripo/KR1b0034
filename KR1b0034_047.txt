@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書纂傳
-#+DATE: 2015-09-23 09:36:09
-#+PROPERTY: JUAN 47
+#+DATE: 2015-08-24 22:02:56.704083
+#+PROPERTY: ID KR1b0034
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 後序
 <pb:KR1b0034_WYG_047-1a>¶
 六經惟書最難讀去古旣逺世人無唐虞三代聖賢心¶
 胸往往以其褊且薄者揣臆其寛大忠厚故非惟文義¶
@@ -41,4 +43,3 @@
 <pb:KR1b0034_WYG_047-3a>¶
 竊獨以是冝家藏而人誦之也為述其梗槩寘之卷末¶
 戊子長至日友人崔君舉謹書¶
-
